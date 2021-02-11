@@ -147,7 +147,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/rohit-davas
 
-[developement-shield]:https://img.shields.io/static/v1?label=Status&message=In-Developement&color=informational
+[developement-shield]:https://img.shields.io/static/v1?label=Status&message=Code-To-Be-Added&color=informational
 [developement-shiled-url]:https://github.com/rohitdavas/Object-Detection
 
 [pytorch-shield]:https://img.shields.io/static/v1?label=PyTorch&message=1.7.1&color=red
